@@ -5,7 +5,7 @@
 ## Start here
 
 * [The PI Behavioral Assessment explained](docs/test-overview.md)
-* [15-minute self-check](docs/diagnostic.md)
+* [10-minute self-check](docs/diagnostic.md)
 
 ## The format and the five factors
 

@@ -1,12 +1,12 @@
 # PI Behavioral Assessment Study Notes
 
-A free, complete guide to the Predictive Index (PI) Behavioral Assessment: how the two adjective lists work, what each of the five factors means at both ends, how your pattern, Reference Profile and match score are worked out, and how to talk about your results in an interview. It includes 79 original worked examples with full explanations, a self-check, and plans for a week or a weekend. It is written for job candidates who have just received a PI link, with a page for employees asked to take it for coaching. This is not a guide to "gaming" the assessment. PI says that does not work, and the notes explain why. Facts come only from The Predictive Index's own pages, each one [cited](docs/sources.md).
+A free, complete guide to the Predictive Index (PI) Behavioral Assessment: how the two adjective lists work, what each of the five factors means at both ends, how your pattern, Reference Profile and match score are worked out, and how to talk about your results in an interview. It includes 42 original worked examples with full explanations, a self-check, and plans for a week or a weekend. It is written for job candidates who have just received a PI link, with a page for employees asked to take it for coaching. This is not a guide to "gaming" the assessment. PI says that does not work, and the notes explain why. Facts come only from The Predictive Index's own pages, each one [cited](docs/sources.md).
 
-Want to see the format first? Try the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment), or the [15-minute self-check](docs/diagnostic.md) in this repo.
+Want to see the format first? Try the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment), or the [10-minute self-check](docs/diagnostic.md) in this repo.
 
 ## Start here
 
-1. **Check what you already know.** Take the [15-minute self-check](docs/diagnostic.md). It has three questions on each part of the assessment.
+1. **Check what you already know.** Take the [10-minute self-check](docs/diagnostic.md). It has two questions on each part of the assessment.
 2. **Learn the two lists.** Read [The two lists](docs/sections/the-two-lists.md). It is the one page that directly affects how accurate your result will be.
 3. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan) to understand your results in depth, or the [2-day plan](docs/study-plans.md#2-day-plan) if the link has already arrived.
 
@@ -39,7 +39,7 @@ Sources: [PI Behavioral Assessment](https://www.predictiveindex.com/assessments/
 | Formality (D) | The drive to conform to rules and structure | [Formality](docs/sections/formality.md) |
 | Objectivity (E) | Subjective or objective decision making | [Objectivity](docs/sections/objectivity.md) |
 
-Every guide has the same parts: what it measures, how the questions look, a method for answering and for reading your result, common misreadings, timing, 10 or more original worked examples with explanations, and a score table.
+Every guide has the same parts: what it measures, how the questions look, a method for answering and for reading your result, common misreadings, timing, 5 original worked examples with explanations, and a score table.
 
 ## Contents
 
@@ -55,7 +55,7 @@ Every guide has the same parts: what it measures, how the questions look, a meth
   - [Who uses it and when](docs/test-overview.md#who-uses-it-and-when)
   - [Why "gaming" it does not work](docs/test-overview.md#why-gaming-it-does-not-work)
   - [Practise the format](docs/test-overview.md#practise-the-format)
-- [15-minute self-check](docs/diagnostic.md)
+- [10-minute self-check](docs/diagnostic.md)
   - [Part A: The two lists](docs/diagnostic.md#part-a-the-two-lists)
   - [Part B: Dominance](docs/diagnostic.md#part-b-dominance)
   - [Part C: Extraversion](docs/diagnostic.md#part-c-extraversion)
@@ -198,7 +198,7 @@ Every guide has the same parts: what it measures, how the questions look, a meth
 
 ## About the worked examples
 
-All 79 worked examples (61 in the guides and 18 in the self-check) are original, written for these notes. None are taken from PI's materials or from any prep site. They test how the assessment works and how PI describes each factor. They do not map adjectives to factors: PI does not publish that mapping, and these notes do not guess it.
+All 42 worked examples (30 in the guides and 12 in the self-check) are original, written for these notes. None are taken from PI's materials or from any prep site. They test how the assessment works and how PI describes each factor. They do not map adjectives to factors: PI does not publish that mapping, and these notes do not guess it.
 
 ## Also taking the cognitive test?
 

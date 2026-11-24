@@ -56,102 +56,64 @@ Untimed, about six minutes on average for the whole assessment.
 
 ## Practice items
 
-These 10 worked examples are original, written for these notes. Each has one best answer based on PI's published descriptions. Commit to an answer, then open the explanations.
+These 5 worked examples are original, written for these notes. Each has one best answer based on PI's published descriptions. Commit to an answer, then open the explanations.
 
-**Item 1.** According to PI, which needs go with **high** Patience?
-A) Variety, change and freedom from repetition
-B) Long-term affiliation, a steady pace and consistency
-C) Independence and challenge
-D) Privacy and time to think
-
-**Item 2.** According to PI, which needs go with **low** Patience?
+**Item 1.** According to PI, which needs go with **low** Patience?
 A) Clear expectations and job knowledge
 B) Encouragement and harmony
 C) Variety, change and freedom from repetition
 D) Long-term affiliation
 
-**Item 3.** PI says its Patience factor reflects:
-A) How tolerant and polite someone is
-B) How someone prefers to manage time, pace and change
-C) How long someone can wait in a queue
-D) How kind someone is to colleagues
-
-**Item 4.** Ana loves starting a new project every few weeks and gets bored by repeating the same tasks. If her pattern matches this description, where is her Patience most likely to sit?
+**Item 2.** Ana loves starting a new project every few weeks and gets bored by repeating the same tasks. If her pattern matches this description, where is her Patience most likely to sit?
 A) Left of the midpoint (low)
 B) Right of the midpoint (high)
 C) Exactly on the midpoint
 D) It cannot appear on a pattern
 
-**Item 5.** Ben prefers a steady routine and has worked with the same team for years, which suits him well. If his pattern matches this, where is his Patience most likely to sit?
-A) Left of the midpoint (low)
-B) Exactly on the midpoint
-C) Outside the pattern
-D) Right of the midpoint (high)
-
-**Item 6.** In a pattern, C sits clearly higher than A. How does PI describe this?
+**Item 3.** In a pattern, C sits clearly higher than A. How does PI describe this?
 A) Proactive
 B) Responsive: action is taken with thoughtful and careful consideration
 C) Comfortable with risk
 D) Informal
 
-**Item 7.** In a pattern, C sits clearly higher than D. How does PI say this person sees rules?
-A) As guidelines: casual with rules
-B) As essential: careful with rules
-C) As someone else's job
-D) It cannot be read from C and D
-
-**Item 8.** In a pattern, D sits clearly higher than C. How does PI describe this?
-A) Casual with rules
-B) Quick to connect
-C) Careful with rules: concerned with accuracy, punctuality and sticking to the rules
-D) Proactive
-
-**Item 9.** Chloe's Patience sits very close to the midpoint. What does PI say this means?
+**Item 4.** Chloe's Patience sits very close to the midpoint. What does PI say this means?
 A) Her result is invalid
 B) She has no Patience at all
 C) She skipped the Patience words
 D) It is a more adaptable, "situational" drive: easier to adjust, but not strongly expressed either way
 
-**Item 10.** Omar thinks "patience is a virtue", so a high Patience score must look better to any employer. What does PI say?
+**Item 5.** Omar thinks "patience is a virtue", so a high Patience score must look better to any employer. What does PI say?
 A) He is right: high scores are always better
 B) High and low are neither good nor bad, and Patience in PI is about pace and change, not virtue
 C) Only low scores are good
 D) Patience is not scored
 
 <details>
-<summary>Answers and explanations, items 1 to 10</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
-**Item 1: B.** PI says people with high Patience need long-term affiliation, a steady pace and consistency. *Why not A:* that is low Patience.
+**Item 1: C.** PI says people with low Patience need variety, change and freedom from repetition. *Why not A:* that is high Formality. *Why not B:* that is low Dominance.
 
-**Item 2: C.** PI says people with low Patience need variety, change and freedom from repetition. *Why not A:* that is high Formality. *Why not B:* that is low Dominance.
+**Item 2: A.** Wanting variety and disliking repetition matches PI's description of low Patience needs.
 
-**Item 3: B.** PI's product page says Patience reflects how someone prefers to manage time, pace and change, not how tolerant or polite they are.
+**Item 3: B.** PI calls C higher than A "responsive": action is taken with thoughtful and careful consideration. *Why not A:* proactive is A higher than C.
 
-**Item 4: A.** Wanting variety and disliking repetition matches PI's description of low Patience needs.
+**Item 4: D.** PI calls scores near the midpoint "situational". They represent more adaptable drives: easier to adjust as needed, without a strong pull either way. *Why not A:* a midpoint score is a normal result.
 
-**Item 5: D.** Preferring a steady routine and long-term affiliation matches PI's description of high Patience needs.
-
-**Item 6: B.** PI calls C higher than A "responsive": action is taken with thoughtful and careful consideration. *Why not A:* proactive is A higher than C.
-
-**Item 7: A.** PI says C higher than D means casual with rules, seeing them more as guidelines. *Why not B:* that is D higher than C.
-
-**Item 8: C.** PI says D higher than C means careful with rules: concerned with accuracy, punctuality and adhering to the rules.
-
-**Item 9: D.** PI calls scores near the midpoint "situational". They represent more adaptable drives: easier to adjust as needed, without a strong pull either way. *Why not A:* a midpoint score is a normal result.
-
-**Item 10: B.** PI says there are no right or wrong answers and that high and low are neither good nor bad. It also says Patience is about pace and change, not politeness or virtue. What matters is how a pattern compares with what a specific job needs.
+**Item 5: B.** PI says there are no right or wrong answers and that high and low are neither good nor bad. It also says Patience is about pace and change, not politeness or virtue. What matters is how a pattern compares with what a specific job needs.
 
 </details>
 
+Want more? The free PI Behavioral practice profile on PrepClubs runs the real two-list format and shows your pattern: [try the practice profile](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment).
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | C | B | A | D | B | A | C | D | B |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | C | A | B | D | B |
 
-- **9 to 10:** you can read Patience the way PI does, everyday meaning set aside.
-- **6 to 8:** reread "What it measures" and the combinations table.
-- **5 or fewer:** the everyday meaning of "patience" is probably getting in the way. Reread method step 1.
+- **5:** you can read Patience the way PI does, everyday meaning set aside.
+- **3 to 4:** reread "What it measures" and the combinations table.
+- **2 or fewer:** the everyday meaning of "patience" is probably getting in the way. Reread method step 1.
 
 ## Next step
 

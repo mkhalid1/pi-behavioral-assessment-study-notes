@@ -50,7 +50,7 @@ Untimed, about six minutes on average for the whole assessment.
 
 ## Practice items
 
-These 10 worked examples are original, written for these notes. Each has one best answer based on PI's published descriptions. Commit to an answer, then open the explanations.
+These 5 worked examples are original, written for these notes. Each has one best answer based on PI's published descriptions. Commit to an answer, then open the explanations.
 
 **Item 1.** What does Factor E describe, according to PI?
 A) How much a person wants to influence others
@@ -58,94 +58,56 @@ B) How strongly a person needs social contact
 C) Whether a person relies more on subjective or objective information when making decisions
 D) How a person views rules
 
-**Item 2.** Factor E sits **left** of the midpoint. What does PI say this suggests?
-A) More subjective: gut feeling matters a lot, relying on what feels right
-B) More objective: wants facts and data first
-C) An invalid result
-D) Low Formality
-
-**Item 3.** Factor E sits **right** of the midpoint. What does PI say this suggests?
-A) More subjective
-B) Needs privacy
-C) Casual with rules
-D) More objective: wants to examine facts, check sources and look to the data
-
-**Item 4.** How is Factor E different from A, B, C and D?
+**Item 2.** How is Factor E different from A, B, C and D?
 A) It is the most important factor
 B) It does not measure an amount of a drive; it is a secondary, modifying factor
 C) It is only measured on the first list
 D) It is the average of the other four
 
-**Item 5.** Two colleagues have almost the same A, B, C and D. Can they have different decision-making styles?
+**Item 3.** Two colleagues have almost the same A, B, C and D. Can they have different decision-making styles?
 A) No, the same pattern always means the same style
 B) Only if one of them retakes the assessment
 C) Yes, because Factor E is separate and can differ
 D) Only if they used different devices
 
-**Item 6.** Hana always asks for the numbers and checks the source before she makes a call. If her pattern matches this, which side of the midpoint is her Factor E most likely on?
-A) Right (objective)
-B) Left (subjective)
-C) Exactly on the midpoint
-D) Factor E has no sides
-
-**Item 7.** Luca usually decides by what feels right to him, even when there are no figures to back it up. If his pattern matches this, which side is his Factor E most likely on?
+**Item 4.** Luca usually decides by what feels right to him, even when there are no figures to back it up. If his pattern matches this, which side is his Factor E most likely on?
 A) Right (objective)
 B) Left (subjective)
 C) It depends on his Formality
 D) Factor E has no sides
 
-**Item 8.** Is a subjective Factor E a worse result than an objective one?
-A) Yes, employers always want objective
-B) Yes, but only for managers
-C) It depends on how many words were ticked
-D) No. PI treats it as a decision-making style, and says there are no right or wrong answers on the BA
-
-**Item 9.** Where does PI show Factor E?
-A) Separately from A, B, C and D
-B) As the top line of the A to D pattern
-C) Only in the Self-Concept pattern
-D) It is never shown
-
-**Item 10.** Femi is applying for an analyst job and wants to look data-driven. What fits PI's guidance for the second list?
+**Item 5.** Femi is applying for an analyst job and wants to look data-driven. What fits PI's guidance for the second list?
 A) Tick only words that sound logical and analytical
 B) Tick words that really describe him, as PI asks
 C) Tick nothing on the second list
 D) Copy his first list exactly
 
 <details>
-<summary>Answers and explanations, items 1 to 10</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
 **Item 1: C.** PI says Factor E tells you whether, when it comes time to decide, a person relies more on subjective or objective information. *Why not A:* that is Dominance. *Why not D:* that is Formality.
 
-**Item 2: A.** PI says E on the left means more subjective: gut feeling is important and decisions rely on what feels right.
+**Item 2: B.** PI says E does not measure how much of a drive you have. It is a secondary, modifying factor, not part of the theoretical model behind A to D. *Why not A:* PI calls the four primary factors primary and E secondary.
 
-**Item 3: D.** PI says E on the right means more objective: examining facts, checking sources and looking to data.
+**Item 3: C.** PI says that because E is a separate modifier, two people can have the same pattern but different decision-making styles.
 
-**Item 4: B.** PI says E does not measure how much of a drive you have. It is a secondary, modifying factor, not part of the theoretical model behind A to D. *Why not A:* PI calls the four primary factors primary and E secondary.
+**Item 4: B.** Relying on what feels right, even without numbers, matches PI's description of a subjective E.
 
-**Item 5: C.** PI says that because E is a separate modifier, two people can have the same pattern but different decision-making styles.
-
-**Item 6: A.** Checking data and sources first matches PI's description of an objective E.
-
-**Item 7: B.** Relying on what feels right, even without numbers, matches PI's description of a subjective E.
-
-**Item 8: D.** PI presents E as a style of decision making. Across the BA, PI says there are no right or wrong answers.
-
-**Item 9: A.** PI's factors article says E is visualised separately from A, B, C and D because it is a different kind of factor.
-
-**Item 10: B.** PI's second list asks for the adjectives that really describe you. Steering it to look "data-driven" describes the job, not Femi, and you cannot see which words link to E anyway. *Why not D:* the two lists ask different questions, so copying one into the other throws away the information each is meant to give.
+**Item 5: B.** PI's second list asks for the adjectives that really describe you. Steering it to look "data-driven" describes the job, not Femi, and you cannot see which words link to E anyway. *Why not D:* the two lists ask different questions, so copying one into the other throws away the information each is meant to give.
 
 </details>
 
+Want more? The free PI Behavioral practice profile on PrepClubs runs the real two-list format and shows your pattern: [try the practice profile](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment).
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | C | A | D | B | C | A | B | D | A | B |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | C | B | C | B | B |
 
-- **9 to 10:** you understand Factor E and why it sits apart.
-- **6 to 8:** reread "How E differs from A, B, C and D".
-- **5 or fewer:** read the [Dominance guide](dominance.md) first, then return. E makes most sense once the primary factors are clear.
+- **5:** you understand Factor E and why it sits apart.
+- **3 to 4:** reread "How E differs from A, B, C and D".
+- **2 or fewer:** read the [Dominance guide](dominance.md) first, then return. E makes most sense once the primary factors are clear.
 
 ## Next step
 

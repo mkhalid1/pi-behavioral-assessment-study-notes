@@ -2,7 +2,7 @@
 
 # Study plans
 
-You cannot study your way to a "better" PI Behavioral result, and PI says you should not try. What preparation does is make the format familiar, so you answer clearly, and help you understand your results, so you can talk about them in the interview. Both plans start with the [15-minute self-check](diagnostic.md).
+You cannot study your way to a "better" PI Behavioral result, and PI says you should not try. What preparation does is make the format familiar, so you answer clearly, and help you understand your results, so you can talk about them in the interview. Both plans start with the [10-minute self-check](diagnostic.md).
 
 ## 7-day plan
 

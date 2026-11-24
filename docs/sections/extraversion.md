@@ -57,102 +57,64 @@ Untimed, about six minutes on average for the whole assessment.
 
 ## Practice items
 
-These 10 worked examples are original, written for these notes. Each has one best answer based on PI's published descriptions. Commit to an answer, then open the explanations.
+These 5 worked examples are original, written for these notes. Each has one best answer based on PI's published descriptions. Commit to an answer, then open the explanations.
 
-**Item 1.** According to PI, which needs go with **high** Extraversion?
-A) Privacy, time to think and room for reflection
-B) Long-term affiliation and a steady pace
-C) Interaction, social acceptance and connection with others
-D) Independence and competition
-
-**Item 2.** According to PI, which needs go with **low** Extraversion?
+**Item 1.** According to PI, which needs go with **low** Extraversion?
 A) Privacy, time to think and room for reflection
 B) Interaction and connection
 C) Flexibility and freedom from rules
 D) Encouragement and reassurance
 
-**Item 3.** PI says its Extraversion factor reflects:
-A) How social someone is in their personal life
-B) How people communicate, persuade and engage with others at work
-C) How many friends someone has
-D) How confident someone is at public speaking
-
-**Item 4.** Priya likes to think a problem through on her own before she speaks, and she values a quiet space to work. If her pattern matches this description, where is her Extraversion most likely to sit?
-A) Right of the midpoint (high)
-B) Exactly on the midpoint
-C) It cannot be read from her pattern
-D) Left of the midpoint (low)
-
-**Item 5.** Marcus is energised by meeting new clients and wants to feel connected to his team every day. If his pattern matches this, where is his Extraversion most likely to sit?
+**Item 2.** Marcus is energised by meeting new clients and wants to feel connected to his team every day. If his pattern matches this, where is his Extraversion most likely to sit?
 A) Right of the midpoint (high)
 B) Left of the midpoint (low)
 C) Exactly on the midpoint
 D) Below Factor E
 
-**Item 6.** In a pattern, B sits clearly higher than A. What does PI say this suggests?
-A) More task oriented
-B) More people oriented
-C) Comfortable with risk
-D) Careful with rules
-
-**Item 7.** In a pattern, B sits clearly higher than C. How does PI describe this person's way of building relationships?
+**Item 3.** In a pattern, B sits clearly higher than C. How does PI describe this person's way of building relationships?
 A) Takes time to connect
 B) Formal
 C) Quick to connect
 D) Responsive
 
-**Item 8.** In a pattern, C sits clearly higher than B. How does PI describe this?
-A) Quick to connect
-B) Takes time to connect: relationships are built over time
-C) Informal
-D) Proactive
-
-**Item 9.** In a pattern, D sits clearly higher than B. How does PI describe this person with others?
+**Item 4.** In a pattern, D sits clearly higher than B. How does PI describe this person with others?
 A) Informal and uninhibited
 B) Quick to connect
 C) People oriented
 D) More formal: disciplined and cautious with new people
 
-**Item 10.** Leo is quiet by nature but is applying for a customer-facing job. He worries a low Extraversion result will rule him out. Which statement fits PI's guidance?
+**Item 5.** Leo is quiet by nature but is applying for a customer-facing job. He worries a low Extraversion result will rule him out. Which statement fits PI's guidance?
 A) He should tick only outgoing-sounding words on the second list
 B) High and low are neither good nor bad; his pattern is compared with a target and is one data point, so he should answer honestly
 C) He should leave the second list blank
 D) He should take the assessment several times until it changes
 
 <details>
-<summary>Answers and explanations, items 1 to 10</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
-**Item 1: C.** PI says people with high Extraversion need interaction, social acceptance and connection with others. *Why not A:* that is low Extraversion. *Why not B:* that is high Patience.
+**Item 1: A.** PI says people with low Extraversion need privacy, time to think and room for reflection. *Why not D:* that is low Dominance.
 
-**Item 2: A.** PI says people with low Extraversion need privacy, time to think and room for reflection. *Why not D:* that is low Dominance.
+**Item 2: A.** Wanting interaction and connection matches PI's description of high Extraversion needs.
 
-**Item 3: B.** PI's product page says Extraversion reflects how people communicate, persuade and engage with others, not how social they are in their personal lives. *Why not D:* the BA measures drives, not specific skills.
+**Item 3: C.** PI says B higher than C means quick to connect: relationships are built quickly. *Why not A:* that is C higher than B.
 
-**Item 4: D.** Wanting time to think alone and a quiet space matches PI's description of low Extraversion needs.
+**Item 4: D.** PI says D higher than B means more formal: serious, reserved, disciplined and cautious with new people. *Why not A:* informal is B higher than D.
 
-**Item 5: A.** Wanting interaction and connection matches PI's description of high Extraversion needs.
-
-**Item 6: B.** PI says B higher than A suggests someone more people oriented, who focuses on involving people and bringing them together. *Why not A:* that is A higher than B.
-
-**Item 7: C.** PI says B higher than C means quick to connect: relationships are built quickly. *Why not A:* that is C higher than B.
-
-**Item 8: B.** PI says C higher than B means someone who takes time to connect, building relationships over time.
-
-**Item 9: D.** PI says D higher than B means more formal: serious, reserved, disciplined and cautious with new people. *Why not A:* informal is B higher than D.
-
-**Item 10: B.** PI says there are no right or wrong answers and that high and low are neither good nor bad. Employers compare the pattern with a target and should treat it as one data point, alongside the interview. *Why not D:* PI recommends taking the BA no more than once a year, and repeated attempts do not make a result more "correct". *Why not A:* steering the second list describes the job, not Leo, and rarely produces the pattern people expect.
+**Item 5: B.** PI says there are no right or wrong answers and that high and low are neither good nor bad. Employers compare the pattern with a target and should treat it as one data point, alongside the interview. *Why not D:* PI recommends taking the BA no more than once a year, and repeated attempts do not make a result more "correct". *Why not A:* steering the second list describes the job, not Leo, and rarely produces the pattern people expect.
 
 </details>
 
+Want more? The free PI Behavioral practice profile on PrepClubs runs the real two-list format and shows your pattern: [try the practice profile](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment).
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | C | A | B | D | A | B | C | B | D | B |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | A | A | C | D | B |
 
-- **9 to 10:** you can read Extraversion the way PI does.
-- **6 to 8:** reread the needs and combinations tables, and the point about work versus social life.
-- **5 or fewer:** go back to the [Dominance guide](dominance.md) first; the A and B combination is easier once Dominance is clear.
+- **5:** you can read Extraversion the way PI does.
+- **3 to 4:** reread the needs and combinations tables, and the point about work versus social life.
+- **2 or fewer:** go back to the [Dominance guide](dominance.md) first; the A and B combination is easier once Dominance is clear.
 
 ## Next step
 
