@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Extraversion (Factor B)](extraversion.md) · Next: [Formality (Factor D)](formality.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Extraversion (Factor B)](extraversion.md) · Next: [Formality (Factor D)](formality.md)
+<!-- /nav:top -->
 
 # Patience (Factor C)
 
@@ -121,4 +123,6 @@ Build a practice profile to see where your own C lands: the [free PI Behavioral 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Extraversion (Factor B)](extraversion.md) | Next: [Formality (Factor D)](formality.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Extraversion (Factor B)](extraversion.md) | Next: [Formality (Factor D)](formality.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

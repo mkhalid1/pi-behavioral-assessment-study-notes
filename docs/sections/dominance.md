@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [The two lists: Self-Concept and Self](the-two-lists.md) · Next: [Extraversion (Factor B)](extraversion.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [The two lists: Self-Concept and Self](the-two-lists.md) · Next: [Extraversion (Factor B)](extraversion.md)
+<!-- /nav:top -->
 
 # Dominance (Factor A)
 
@@ -128,4 +130,6 @@ Seeing your own pattern makes the factors far easier to understand than any desc
 
 ---
 
-<!-- nav:bottom -->← Previous: [The two lists: Self-Concept and Self](the-two-lists.md) | Next: [Extraversion (Factor B)](extraversion.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The two lists: Self-Concept and Self](the-two-lists.md) | Next: [Extraversion (Factor B)](extraversion.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

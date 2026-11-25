@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The PI Behavioral Assessment explained](test-overview.md) · Next: [The two lists: Self-Concept and Self](sections/the-two-lists.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The PI Behavioral Assessment explained](test-overview.md) · Next: [The two lists: Self-Concept and Self](sections/the-two-lists.md)
+<!-- /nav:top -->
 
 # 10-minute self-check
 
@@ -137,4 +139,6 @@ Then pick a plan: the [7-day plan](study-plans.md#7-day-plan) if you want to und
 
 ---
 
-<!-- nav:bottom -->← Previous: [The PI Behavioral Assessment explained](test-overview.md) | Next: [The two lists: Self-Concept and Self](sections/the-two-lists.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The PI Behavioral Assessment explained](test-overview.md) | Next: [The two lists: Self-Concept and Self](sections/the-two-lists.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Objectivity (Factor E)](sections/objectivity.md) · Next: [The 17 Reference Profiles](reference-profiles.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Objectivity (Factor E)](sections/objectivity.md) · Next: [The 17 Reference Profiles](reference-profiles.md)
+<!-- /nav:top -->
 
 # How results are scored and read
 
@@ -104,4 +106,6 @@ PI recommends taking the BA **no more than once a year**, and only when there is
 
 ---
 
-<!-- nav:bottom -->← Previous: [Objectivity (Factor E)](sections/objectivity.md) | Next: [The 17 Reference Profiles](reference-profiles.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Objectivity (Factor E)](sections/objectivity.md) | Next: [The 17 Reference Profiles](reference-profiles.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

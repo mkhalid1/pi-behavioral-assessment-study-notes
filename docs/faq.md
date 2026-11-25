@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Test-day checklist](test-day-checklist.md) · Next: [Glossary](glossary.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Test-day checklist](test-day-checklist.md) · Next: [Glossary](glossary.md)
+<!-- /nav:top -->
 
 # FAQ
 
@@ -90,4 +92,6 @@ Read the worked examples in this repo, starting with [The two lists](sections/th
 
 ---
 
-<!-- nav:bottom -->← Previous: [Test-day checklist](test-day-checklist.md) | Next: [Glossary](glossary.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Test-day checklist](test-day-checklist.md) | Next: [Glossary](glossary.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

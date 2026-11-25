@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [PI Behavioral Assessment Study Notes](../README.md) · Next: [10-minute self-check](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [PI Behavioral Assessment Study Notes](../README.md) · Next: [10-minute self-check](diagnostic.md)
+<!-- /nav:top -->
 
 # The PI Behavioral Assessment explained
 
@@ -75,4 +77,6 @@ The adjective lists feel strange the first time, mainly because there is no "rig
 
 ---
 
-<!-- nav:bottom -->← Previous: [PI Behavioral Assessment Study Notes](../README.md) | Next: [10-minute self-check](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [PI Behavioral Assessment Study Notes](../README.md) | Next: [10-minute self-check](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

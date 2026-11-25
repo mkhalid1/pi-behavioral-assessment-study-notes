@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Patience (Factor C)](patience.md) · Next: [Objectivity (Factor E)](objectivity.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Patience (Factor C)](patience.md) · Next: [Objectivity (Factor E)](objectivity.md)
+<!-- /nav:top -->
 
 # Formality (Factor D)
 
@@ -122,4 +124,6 @@ See where your own D lands with the [free PI Behavioral practice profile on Prep
 
 ---
 
-<!-- nav:bottom -->← Previous: [Patience (Factor C)](patience.md) | Next: [Objectivity (Factor E)](objectivity.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Patience (Factor C)](patience.md) | Next: [Objectivity (Factor E)](objectivity.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

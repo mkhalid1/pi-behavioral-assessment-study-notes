@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Formality (Factor D)](formality.md) · Next: [How results are scored and read](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Formality (Factor D)](formality.md) · Next: [How results are scored and read](../scoring.md)
+<!-- /nav:top -->
 
 # Objectivity (Factor E)
 
@@ -115,4 +117,6 @@ You now know all five factors. See them together on your own practice pattern wi
 
 ---
 
-<!-- nav:bottom -->← Previous: [Formality (Factor D)](formality.md) | Next: [How results are scored and read](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Formality (Factor D)](formality.md) | Next: [How results are scored and read](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

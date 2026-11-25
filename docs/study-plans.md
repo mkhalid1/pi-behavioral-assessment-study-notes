@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The 17 Reference Profiles](reference-profiles.md) · Next: [Taking it as an employee](for-employees.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The 17 Reference Profiles](reference-profiles.md) · Next: [Taking it as an employee](for-employees.md)
+<!-- /nav:top -->
 
 # Study plans
 
@@ -59,4 +61,6 @@ If the employer also sent the PI Cognitive Assessment, do this one first, take a
 
 ---
 
-<!-- nav:bottom -->← Previous: [The 17 Reference Profiles](reference-profiles.md) | Next: [Taking it as an employee](for-employees.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The 17 Reference Profiles](reference-profiles.md) | Next: [Taking it as an employee](for-employees.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

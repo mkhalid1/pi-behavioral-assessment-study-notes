@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [10-minute self-check](../diagnostic.md) · Next: [Dominance (Factor A)](dominance.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [10-minute self-check](../diagnostic.md) · Next: [Dominance (Factor A)](dominance.md)
+<!-- /nav:top -->
 
 # The two lists: Self-Concept and Self
 
@@ -123,4 +125,6 @@ The best way to make the two lists feel familiar is to try them once. Do a dry r
 
 ---
 
-<!-- nav:bottom -->← Previous: [10-minute self-check](../diagnostic.md) | Next: [Dominance (Factor A)](dominance.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [10-minute self-check](../diagnostic.md) | Next: [Dominance (Factor A)](dominance.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

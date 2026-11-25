@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Dominance (Factor A)](dominance.md) · Next: [Patience (Factor C)](patience.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Dominance (Factor A)](dominance.md) · Next: [Patience (Factor C)](patience.md)
+<!-- /nav:top -->
 
 # Extraversion (Factor B)
 
@@ -122,4 +124,6 @@ Try the lists once so the real thing feels familiar: the [free PI Behavioral pra
 
 ---
 
-<!-- nav:bottom -->← Previous: [Dominance (Factor A)](dominance.md) | Next: [Patience (Factor C)](patience.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Dominance (Factor A)](dominance.md) | Next: [Patience (Factor C)](patience.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

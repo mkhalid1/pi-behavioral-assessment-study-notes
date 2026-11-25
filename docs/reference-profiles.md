@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [How results are scored and read](scoring.md) · Next: [Study plans](study-plans.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [How results are scored and read](scoring.md) · Next: [Study plans](study-plans.md)
+<!-- /nav:top -->
 
 # The 17 Reference Profiles
 
@@ -84,4 +86,6 @@ Want to see which neighbourhood your own answers land in? Build a pattern with t
 
 ---
 
-<!-- nav:bottom -->← Previous: [How results are scored and read](scoring.md) | Next: [Study plans](study-plans.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [How results are scored and read](scoring.md) | Next: [Study plans](study-plans.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->
