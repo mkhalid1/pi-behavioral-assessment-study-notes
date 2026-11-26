@@ -88,7 +88,7 @@ PI's history page says the BA is available in 68 languages, including English Br
 
 ## Where can I practise?
 
-Read the worked examples in this repo, starting with [The two lists](sections/the-two-lists.md), and do a dry run with the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment).
+Read the worked examples in this repo, starting with [The two lists](sections/the-two-lists.md), and do a dry run with the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=r3kdyr&utm_content=pi-behavioral-assessment).
 
 ---
 

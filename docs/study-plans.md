@@ -16,7 +16,7 @@ About 15 to 20 minutes a day. Useful if you want to understand PI properly, for 
 | 2 | Dominance and Extraversion | Read the [Dominance](sections/dominance.md) and [Extraversion](sections/extraversion.md) guides. Do both sets of worked examples. |
 | 3 | Patience and Formality | Read the [Patience](sections/patience.md) and [Formality](sections/formality.md) guides. Note where the everyday meaning of each word differs from PI's. |
 | 4 | Objectivity and results | Read the [Objectivity guide](sections/objectivity.md) and [How results are scored and read](scoring.md). |
-| 5 | A dry run | Build a practice pattern with the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment). Answer as you would on the day: honestly, first reaction, every word that fits. |
+| 5 | A dry run | Build a practice pattern with the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=r3kdyr&utm_content=pi-behavioral-assessment). Answer as you would on the day: honestly, first reaction, every word that fits. |
 | 6 | Reflect | Read [The 17 Reference Profiles](reference-profiles.md). For each of the four primary factors, write one real example from your work that shows how you like to operate. These are your interview stories. |
 | 7 | Rest | Read the [test-day checklist](test-day-checklist.md). Take the real assessment when you are calm and have 15 free minutes. |
 
@@ -41,7 +41,7 @@ For when the link has arrived.
 | 1 | 10 min | Take the [self-check](diagnostic.md). |
 | 2 | 10 min | Read [The two lists](sections/the-two-lists.md) and do its worked examples. |
 | 3 | 10 min | Skim "What it measures" in each of the five factor guides. |
-| 4 | 10 min | Do a dry run with the [PrepClubs practice profile](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment). |
+| 4 | 10 min | Do a dry run with the [PrepClubs practice profile](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=r3kdyr&utm_content=pi-behavioral-assessment). |
 
 ### Day 2: take it
 

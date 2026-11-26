@@ -82,7 +82,7 @@ People often search for the rarest profile, or the best one for a CEO. PI does n
 - **Look at your full pattern** for anything important. PI says the pattern holds the real detail.
 - **Read the combinations.** The [scoring guide](scoring.md#factor-combinations) shows how pairs of factors describe how you take action, handle risk and connect with people.
 
-Want to see which neighbourhood your own answers land in? Build a pattern with the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment).
+Want to see which neighbourhood your own answers land in? Build a pattern with the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=r3kdyr&utm_content=pi-behavioral-assessment).
 
 ---
 

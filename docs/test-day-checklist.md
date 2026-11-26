@@ -37,7 +37,7 @@ The PI Behavioral Assessment takes about six minutes, so test day is mostly abou
 
 ## A dry run first
 
-If you have never seen the lists, a five-minute practice run makes the real one feel ordinary: the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment).
+If you have never seen the lists, a five-minute practice run makes the real one feel ordinary: the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=r3kdyr&utm_content=pi-behavioral-assessment).
 
 ---
 

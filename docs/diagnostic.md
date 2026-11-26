@@ -10,7 +10,7 @@ These items are original, written for these notes. They are not taken from PI's 
 
 Give yourself about 7 minutes, then check your answers and use the table at the bottom.
 
-If you would rather see the format first, try the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment), then come back.
+If you would rather see the format first, try the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=r3kdyr&utm_content=pi-behavioral-assessment), then come back.
 
 ## Part A: The two lists
 

@@ -73,7 +73,7 @@ The honest route is also the useful one. A pattern that describes the real you h
 
 ## Practise the format
 
-The adjective lists feel strange the first time, mainly because there is no "right" amount to tick. A dry run helps. Try the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment), then take the [10-minute self-check](diagnostic.md) in this repo to see which ideas are worth reading up on.
+The adjective lists feel strange the first time, mainly because there is no "right" amount to tick. A dry run helps. Try the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=r3kdyr&utm_content=pi-behavioral-assessment), then take the [10-minute self-check](diagnostic.md) in this repo to see which ideas are worth reading up on.
 
 ---
 

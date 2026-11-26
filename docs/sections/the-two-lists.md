@@ -107,7 +107,7 @@ D) She is a poor fit for any job
 
 </details>
 
-Want more? The free PI Behavioral practice profile on PrepClubs runs the real two-list format and shows your pattern: [try the practice profile](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment).
+Want more? The free PI Behavioral practice profile on PrepClubs runs the real two-list format and shows your pattern: [try the practice profile](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=r3kdyr&utm_content=pi-behavioral-assessment).
 
 ## Score yourself
 
@@ -121,7 +121,7 @@ Want more? The free PI Behavioral practice profile on PrepClubs runs the real tw
 
 ## Next step
 
-The best way to make the two lists feel familiar is to try them once. Do a dry run with the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment), then read the factor guides to understand what your results will describe.
+The best way to make the two lists feel familiar is to try them once. Do a dry run with the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=r3kdyr&utm_content=pi-behavioral-assessment), then read the factor guides to understand what your results will describe.
 
 ---
 

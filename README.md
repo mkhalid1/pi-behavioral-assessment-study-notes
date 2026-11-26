@@ -2,7 +2,7 @@
 
 A free, complete guide to the Predictive Index (PI) Behavioral Assessment: how the two adjective lists work, what each of the five factors means at both ends, how your pattern, Reference Profile and match score are worked out, and how to talk about your results in an interview. It includes 42 original worked examples with full explanations, a self-check, and plans for a week or a weekend. It is written for job candidates who have just received a PI link, with a page for employees asked to take it for coaching. This is not a guide to "gaming" the assessment. PI says that does not work, and the notes explain why. Facts come only from The Predictive Index's own pages, each one [cited](docs/sources.md).
 
-Want to see the format first? Try the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment), or the [10-minute self-check](docs/diagnostic.md) in this repo.
+Want to see the format first? Try the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=r3kdyr&utm_content=pi-behavioral-assessment), or the [10-minute self-check](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -193,7 +193,7 @@ Every guide has the same parts: what it measures, how the questions look, a meth
 - **Treat the worked examples as a check on understanding.** Each has one best answer based on PI's published guidance. Answers are hidden under "Answers and explanations".
 - **Read every explanation.** Most say why the nearest wrong option is wrong, which is usually a common misreading of PI's terms.
 - **Then answer the real thing honestly.** Knowing the factors helps you understand and discuss your results. It does not tell you what to tick, and these notes never suggest words to pick.
-- **Do a dry run.** The adjective lists feel unusual the first time. A practice run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-behavioral-assessment), removes the surprise.
+- **Do a dry run.** The adjective lists feel unusual the first time. A practice run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=r3kdyr&utm_content=pi-behavioral-assessment), removes the surprise.
 - **Clone or fork it** if you want your own copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the worked examples
